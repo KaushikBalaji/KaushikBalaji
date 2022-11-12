@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushik Balaji</h1>
-- 🔭 I’m currently working on [Game designing using Pygame](https://github.com/KaushikBalaji/Pygame)
+
+- 🔭 I’m currently working on [Game development using Pygame](https://github.com/KaushikBalaji/Pygame)
 
 - 🌱 I’m currently learning **Python game designing using pygame, renpy**
 
