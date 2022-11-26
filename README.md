@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushik Balaji</h1>
 <h3 align="center"> "Two roads diverged in a wood, and I took the one less traveled by...” <br/>     ‒ Robert Frost from 'The Road Not Taken'. </h3>
 
-- 🔭 I’m currently working on [Game development using Pygame](https://github.com/KaushikBalaji/Pygame)
+- 🔭 I’m currently working on [Game development using Pygame](https://github.com/KaushikBalaji/Space-invaders)
 
 - 🌱 I’m currently learning **Python game designing using pygame, renpy**
 
