@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaushik Balaji</h1>
 <!-- <h3 align="center">"Two roads diverged in a wood, and I took the one less traveled by...”</h3> -->
-"Two roads diverged in a wood, and I took the one less traveled by...”
+"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.”
  
 ***Robert Frost from*** [***‘The Road Not Taken’***](https://www.poetryfoundation.org/poems/44272/the-road-not-taken)
 
