@@ -1,14 +1,16 @@
 <h1 align="center">Hi 👋, I'm Kaushik Balaji</h1>
-<!-- <h3 align="center">"Two roads diverged in a wood, and I took the one less traveled by...”</h3> -->
-"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.”
+
+<h3>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.”
  
-***Robert Frost from*** [***‘The Road Not Taken’***](https://www.poetryfoundation.org/poems/44272/the-road-not-taken)
+***Robert Frost from*** [***‘The Road Not Taken’***](https://www.poetryfoundation.org/poems/44272/the-road-not-taken) </h3>
 
 - 🔭 I’m currently working on [Game development using Pygame](https://github.com/KaushikBalaji/Space-invaders)
 
 - 🌱 I’m currently learning **Python game designing using pygame, renpy**
 
 - 📫 How to reach me **kaushikbalaji0609@outlook.com**
+
+- 📄 [My Resume](https://kaushikbalaji.github.io/KaushikBalaji/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
