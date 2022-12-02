@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kaushikbalaji0609@outlook.com**
 
-- 📄 [My Resume](https://kaushikbalaji.github.io/KaushikBalaji/)
+- 📄 Know [more](https://kaushikbalaji.github.io/KaushikBalaji/) about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
