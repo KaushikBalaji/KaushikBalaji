@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Game development using Pygame](https://github.com/KaushikBalaji/Space-invaders)
 
-- 🌱 I’m currently learning **Python game designing using pygame, renpy**
+- 🌱 I’m currently learning **Python game designing using pygame, renpy, libgdx, Unity**
 
 - 📫 How to reach me **kaushikbalaji0609@outlook.com**
 
