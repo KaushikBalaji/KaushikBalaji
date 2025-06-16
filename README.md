@@ -1,12 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kaushik Balaji</h1>
 
-<h3>"Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.”
+<h3>"Piracy isn’t theft, it’s rebellion — against the idea that knowledge should have a price tag."”
 
 
-
-
-
-*** Robert Frost from*** [***‘The Road Not Taken’***](https://www.poetryfoundation.org/poems/44272/the-road-not-taken) </h3>
+- ✨ Fascinated by open source — it's where creativity thrives without a paywall.
 
 
 - 🔭 I’m currently working on [Open source Expense tracker](https://github.com/KaushikBalaji/expense_track)
