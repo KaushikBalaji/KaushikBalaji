@@ -1,40 +1,56 @@
-<h1 align="center">Hi 👋, I'm Kaushik Balaji</h1>
+# Hi 👋, I'm Kaushik
+*M.Tech Student in System-on-Chip Design | VLSI Enthusiast | Open Source Developer*
 
-<h3>"Piracy isn’t theft, it’s rebellion — against the idea that knowledge should have a price tag."”
+🎓 I’m currently pursuing my **M.Tech in System-on-Chip Design (SoCD)** at IIT Palakkad.  
+💻 Passionate about **VLSI, Digital Design, Computer Architecture, Shell programming, and Semiconductor physics**.  
+🌱 Currently learning: Bash Scripting, Verilog, Vivado.  
+💬 As a CSE major, stuck with choosing Digital design vs Analog design, so would like more thoughts on this.  
+🔭 Working on: Designing a RISC-V processor using python and making performance study on it. Also working on Design and synthesis of hardware components using verilog.  
+📫 How to reach me: [kaushikbalaji0609@outlook.com](kaushikbalaji0609@outlook.com)
+
+---
+
+### Hardware / EDA  
+![Verilog](https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logo=verilog&logoColor=white) 
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF4500?style=for-the-badge&logo=systemverilog&logoColor=white) 
+![VHDL](https://img.shields.io/badge/VHDL-556B2F?style=for-the-badge&logo=vhdl&logoColor=white) 
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-CC0000?style=for-the-badge&logo=xilinx&logoColor=white) 
+![ModelSim](https://img.shields.io/badge/ModelSim-4682B4?style=for-the-badge&logo=intel&logoColor=white) 
+![GTKWave](https://img.shields.io/badge/GTKWave-228B22?style=for-the-badge&logo=gnu&logoColor=white) 
+![Icarus Verilog](https://img.shields.io/badge/Icarus%20Verilog-FF8C00?style=for-the-badge&logo=opensourceinitiative&logoColor=white) 
+![Synopsys](https://img.shields.io/badge/Synopsys-4B0082?style=for-the-badge&logo=synopsys&logoColor=white)  
+
+### Software / Programming  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
+
+### Other Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![Hive](https://img.shields.io/badge/Hive-FF7A00?style=for-the-badge&logo=hive&logoColor=white)  
+
+---
+
+## 📂 My works so far
+- 🚀 [Expense tracker](https://github.com/KaushikBalaji/expense_track): A windows/android app to track expense across devices, with cloud sync features. Fully free and open-sourced.  
+- 🛠️ [VLSI Design Lab experiments](https://github.com/KaushikBalaji/vlsi_lab): Some verilog experiments, along with their waveforms generated and block diagrams.  (IN PROGRESS TILL END OF SEMESTER 1)
+- 📱 [Computer Architecture Lab](https://github.com/KaushikBalaji/ca_labs): Includes the python code to decode the object file of an assembly program, separate them into instructions and has the actual RISCV processor made using python, with their performance measurements (IN PROGRESS TILL END OF SEMESTER 1) 
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushikbalajims/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaushikmskb/) 
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kaushikbalaji0609@outlook.com) 
 
 
-- ✨ Fascinated by open source — it's where creativity thrives without a paywall.
+---
 
-
-- 🔭 I’m currently working on [Open source Expense tracker](https://github.com/KaushikBalaji/expense_track)
-
-
-
-- 🌱 I’m currently learning **Flutter, Dart, MaterialUI**
-
-
-
-- 📫 How to reach me **kaushikbalaji0609@outlook.com**
-
-
-
-- 📄 Know [more](https://kaushikbalaji.github.io/KaushikBalaji/) about my experiences 
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/kaushikbalajims" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushikbalajims" height="30" width="40" /></a>
-
-<a href="https://instagram.com/kaushikmskb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushikmskb" height="30" width="40" /></a>
-
-</p>
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-
+⭐️ From [Kaushik Balaji](https://github.com/KaushikBalaji)
