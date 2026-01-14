@@ -41,7 +41,9 @@
 ## 📂 My works so far
 - 🚀 [Expense tracker](https://github.com/KaushikBalaji/expense_track): A windows/android app to track expense across devices, with cloud sync features. Fully free and open-sourced.  
 - 🛠️ [VLSI Design Lab experiments](https://github.com/KaushikBalaji/vlsi_lab): Some verilog experiments, along with their waveforms generated and block diagrams.  (IN PROGRESS TILL END OF SEMESTER 1)
-- 📱 [Computer Architecture Lab](https://github.com/KaushikBalaji/ca_labs): Includes the python code to decode the object file of an assembly program, separate them into instructions and has the actual RISCV processor made using python, with their performance measurements (IN PROGRESS TILL END OF SEMESTER 1) 
+- 📱 [Computer Architecture Lab](https://github.com/KaushikBalaji/ca_labs): Includes the python code to decode the object file of an assembly program, separate them into instructions and has the actual RISCV processor made using python, with their performance measurements.
+- 🖥  [RISCV using Verilog](https://github.com/KaushikBalaji/Verilog-RISCV): Verilog version of the above Python RISCV simulation. Works with small assembly level programs. Trying to make assembly level games run on this.
+- 🛠️ [VLSI Architectures for Signal Processing and Machine Learning ](https://github.com/KaushikBalaji/vlsi_architecture_lab): Verilog implementations of verious Signal processing and ML algorithms, and verify them with Matlab outputs.
 
 ---
 
